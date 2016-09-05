@@ -1,21 +1,21 @@
 {
-  "name": "hw1-example",
+  "name": "PokeDex",
   "version": "1.0.0",
-  "description": "Example of front techs homework #1",
+  "description": "List of Pokemon in my PokeDex",
   "main": "index.html",
   "scripts": {
     "start": "node_modules/http-server/bin/http-server"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FrontTechsTU/hw1-example.git"
+    "url": "git+https://github.com/FrontTechsTU/PokeDex.git"
   },
   "author": "Tanawat Tassana",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FrontTechsTU/hw1-example/issues"
+    "url": "https://github.com/FrontTechsTU/PokeDex/issues"
   },
-  "homepage": "https://github.com/FrontTechsTU/hw1-example#readme",
+  "homepage": "https://github.com/FrontTechsTU/PokeDex#readme",
   "devDependencies": {
     "http-server": "^0.9.0"
   }
